@@ -1,0 +1,45 @@
+# Data
+*.csv
+*.pkl
+data/
+input/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+venv/
+.venv/
+data_env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files (>100MB) - Kaggle competition data
+*.zip
+*.h5
+*.parquet
+*.arrow
+
+# Reports (keep as reference but ignore intermediate temp files)
+*_tmp.html
+*.tmp
+
+# Kaggle
+kaggle.json
