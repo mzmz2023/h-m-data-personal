@@ -32,8 +32,7 @@ hm-github/
 │   └── 04_gpu_accelerated.ipynb     # GPU 加速版（PyTorch SVD 替代 LightFM）
 │
 └── reports/                         # 项目报告
-    ├── 小组大作业报告.md              # 小组大作业报告
-    └── 个人大作业报告_马峥.md          # 马峥个人大作业报告
+    └── 小组大作业报告.md              # 小组大作业报告
 ```
 
 ---
@@ -162,7 +161,6 @@ kagglehub.competition_download(
 ## Kaggle
 
 - **竞赛地址**：https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
-- **最终排名**：116 / 2952（Top 4%）
 - **方案亮点**：全流程 GPU 加速（SVD / LightGBM / CatBoost）
 
 ---
